@@ -11,6 +11,7 @@ function App() {
     gender: 'male'
   }
 //Cometario para probar un ajuste en git
+//Cometario para probar un ajuste en git 2
   const [form, setForm] = useState(initialFormState)
   const [patients, setPatients] = useState([])
 
