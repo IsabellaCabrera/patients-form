@@ -1,6 +1,3 @@
-¡Buenísimo! 🚀 Este código es un **gestor simple de pacientes** (formulario y lista). Te hago un **README cortito y claro** para este proyecto:
-
----
 
 # 🏥 Patient Manager (React)
 
@@ -55,7 +52,7 @@ Aplicación básica en **React** para registrar pacientes mediante un formulario
 
 ---
 
-¿Quieres que este README lo deje así cortito como guía rápida, o prefieres que le agregue un **diagrama de flujo visual** del formulario → lista?
+
 
 
 # React + Vite
